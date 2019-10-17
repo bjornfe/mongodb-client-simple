@@ -1,0 +1,10 @@
+C:\Github\mongodb-client-simple\MongoDbClientExample\bin\Debug\netcoreapp3.0\DnsClient.dll
+C:\Github\mongodb-client-simple\MongoDbClientExample\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Github\mongodb-client-simple\MongoDbClientExample\bin\Debug\netcoreapp3.0\MongoDB.Bson.dll
+C:\Github\mongodb-client-simple\MongoDbClientExample\bin\Debug\netcoreapp3.0\MongoDB.Driver.dll
+C:\Github\mongodb-client-simple\MongoDbClientExample\bin\Debug\netcoreapp3.0\MongoDB.Driver.Core.dll
+C:\Github\mongodb-client-simple\MongoDbClientExample\bin\Debug\netcoreapp3.0\SharpCompress.dll
+C:\Github\mongodb-client-simple\MongoDbClientExample\bin\Debug\netcoreapp3.0\MongoDB.Client.Simple.dll
+C:\Github\mongodb-client-simple\MongoDbClientExample\obj\Debug\netcoreapp3.0\MongoDbClientExample.csprojAssemblyReference.cache
+C:\Github\mongodb-client-simple\MongoDbClientExample\obj\Debug\netcoreapp3.0\MongoDbClientExample.AssemblyInfoInputs.cache
+C:\Github\mongodb-client-simple\MongoDbClientExample\obj\Debug\netcoreapp3.0\MongoDbClientExample.AssemblyInfo.cs
