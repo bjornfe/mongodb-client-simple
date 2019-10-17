@@ -1,0 +1,5 @@
+C:\Github\mongodb-client-simple\MongoDB.Client.Simple\bin\Debug\netstandard2.0\MongoDB.Client.Simple.deps.json
+C:\Github\mongodb-client-simple\MongoDB.Client.Simple\bin\Debug\netstandard2.0\MongoDB.Client.Simple.dll
+C:\Github\mongodb-client-simple\MongoDB.Client.Simple\obj\Debug\netstandard2.0\MongoDB.Client.Simple.csprojAssemblyReference.cache
+C:\Github\mongodb-client-simple\MongoDB.Client.Simple\obj\Debug\netstandard2.0\MongoDB.Client.Simple.AssemblyInfoInputs.cache
+C:\Github\mongodb-client-simple\MongoDB.Client.Simple\obj\Debug\netstandard2.0\MongoDB.Client.Simple.AssemblyInfo.cs
