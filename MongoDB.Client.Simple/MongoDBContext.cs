@@ -43,6 +43,8 @@ namespace MongoDB.Client.Simple
 
         public IMongoCollection<T> GetCollection<T>(string Name = null)
         {
+            Ping();
+
             if (!BsonClassMap.IsClassMapRegistered(typeof(T)))
             {
                 BsonClassMap.RegisterClassMap<T>(c =>
@@ -66,6 +68,8 @@ namespace MongoDB.Client.Simple
 
             var collection = Database.GetCollection<T>(name);
             Collections[typeof(T)] = collection;
+
+
 
             return collection;
 

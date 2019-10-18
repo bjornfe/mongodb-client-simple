@@ -1447,7 +1447,7 @@
           "lib/netstandard1.3/System.Threading.ThreadPool.dll": {}
         }
       },
-      "MongoDB.Client.Simple/1.0.0": {
+      "MongoDB.Client.Simple/1.0.1": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -5095,7 +5095,7 @@
         "system.threading.threadpool.nuspec"
       ]
     },
-    "MongoDB.Client.Simple/1.0.0": {
+    "MongoDB.Client.Simple/1.0.1": {
       "type": "project",
       "path": "../MongoDB.Client.Simple/MongoDB.Client.Simple.csproj",
       "msbuildProject": "../MongoDB.Client.Simple/MongoDB.Client.Simple.csproj"
@@ -5103,7 +5103,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
-      "MongoDB.Client.Simple >= 1.0.0",
+      "MongoDB.Client.Simple >= 1.0.1",
       "Newtonsoft.Json >= 12.0.2"
     ]
   },

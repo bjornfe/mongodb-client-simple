@@ -5196,7 +5196,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
       "projectUniqueName": "C:\\Github\\mongodb-client-simple\\MongoDB.Client.Simple\\MongoDB.Client.Simple.csproj",
       "projectName": "MongoDB.Client.Simple",
